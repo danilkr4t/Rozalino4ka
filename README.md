@@ -7,6 +7,7 @@
 💄 💋 💖 💋 💄 💋 💖 💋 💄 💋 💖 💋 💄
 
 
+
 ![Python](https://img.shields.io/badge/Python-3.9+-ff1493?style=for-the-badge&logo=python&logoColor=white)
 ![pygame](https://img.shields.io/badge/pygame-2.x-ff69b4?style=for-the-badge)
 ![numpy](https://img.shields.io/badge/numpy-math-ff3366?style=for-the-badge)
@@ -185,8 +186,5 @@ python rozalinochka_full.py
 
 😘 💖 💋 🌹 💋 💖 😘
 
-**Розалина, ты лучшая!** 💞
-
-*Весь код написан на Python, но чувства настоящие.* 💕
 
 </div>
